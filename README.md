@@ -9,3 +9,5 @@ To install this Neovim configuration, run the following command in your terminal
 ```bash
 git clone https://github.com/OmarAlimammad/nvim-config.git ~/.config/nvim
 ```
+## Note
+To add language servers, press Ctrl-M.
